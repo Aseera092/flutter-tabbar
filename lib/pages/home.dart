@@ -45,7 +45,7 @@ class homepage extends StatelessWidget {
               ),
             ),
             Container(
-              color: Colors.lightBlue,
+              color: Colors.green,
               child: Center(
                 child:Image.network("https://tse4.mm.bing.net/th?id=OIP.QzxoLSoyUo8wrKf-Y-Tz-gHaEk&pid=Api&P=0&h=180",height: double.infinity,width: double.infinity,fit: BoxFit.cover),
               ),
